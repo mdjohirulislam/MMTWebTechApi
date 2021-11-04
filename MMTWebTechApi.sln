@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMTWebTechApi", "MMTWebTechApi\MMTWebTechApi.csproj", "{913BF7CD-5E30-41F6-B8CF-154C9B94398C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMTWebTechApi.Test", "MMTWebTechApi.Test\MMTWebTechApi.Test.csproj", "{4ED744D3-41AB-44E0-95C4-AB768B7C770F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{913BF7CD-5E30-41F6-B8CF-154C9B94398C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913BF7CD-5E30-41F6-B8CF-154C9B94398C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913BF7CD-5E30-41F6-B8CF-154C9B94398C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913BF7CD-5E30-41F6-B8CF-154C9B94398C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED744D3-41AB-44E0-95C4-AB768B7C770F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED744D3-41AB-44E0-95C4-AB768B7C770F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED744D3-41AB-44E0-95C4-AB768B7C770F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED744D3-41AB-44E0-95C4-AB768B7C770F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43B2F697-0AF7-4FD7-9600-60A31971EBF8}
+	EndGlobalSection
+EndGlobal
